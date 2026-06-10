@@ -18,16 +18,22 @@ O `GalAgro` apresenta um painel agroespacial demonstrativo para monitoramento de
 
 1. `Splash`
    - tela inicial com logo da aplicacao
+   ![Splash](assets/images/splash-screen.png)
 2. `Intro`
    - explica a proposta do app e permite avancar ou voltar
+   ![Intro](assets/images/intro-screen.png)
 3. `Dashboard`
    - visao geral da operacao, indicadores e atalhos
+   ![Dashboard](assets/images/dashboard-screen.png)
 4. `Regions`
    - lista de regioes monitoradas
+   ![Regions](assets/images/regions-screen.png)
 5. `Region Detail`
    - detalhe tecnico da regiao/lavoura selecionada
+   ![Detail](assets/images/regions-detail-screen.png)
 6. `Alerts`
    - lista de alertas com filtros e mudanca de status
+   ![Alerts](assets/images/alerts-screen.png)
 
 Fluxos principais:
 
