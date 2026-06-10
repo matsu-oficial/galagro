@@ -66,9 +66,3 @@ flutter run
 flutter test
 flutter build web
 ```
-
-## Entrega
-
-- codigo-fonte Flutter: [`../galagro/`](../galagro/)
-- pacote zipado para submissao: [`../GalAgroFlutter.zip`](../GalAgroFlutter.zip)
-- repositorio GitHub: [app-global-solution](https://github.com/matsu-oficial/app-global-solution)
